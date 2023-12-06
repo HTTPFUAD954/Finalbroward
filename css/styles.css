@@ -24,7 +24,7 @@ body {
     width: 930px;
     border-width: 1px;
     margin: 0 auto;
-    background-color: pink;
+    background-color: #C0C0C0;
 }
 
 
@@ -145,3 +145,7 @@ footer a:visited {
 footer a:hover {
     text-decoration: underline;
 }
+table, th, td tr {
+  border:1px solid black;
+}
+
